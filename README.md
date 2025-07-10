@@ -1,35 +1,45 @@
-              ### Socials
-              
-              
-            <p align="left">
-                  <a href="https://www.github.com/hirwa-arnaud" target="_blank" rel="noreferrer">
-                <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" />
-                </picture>
-                </a>
-                  <a href="http://www.instagram.com/arnaud11h" target="_blank" rel="noreferrer">
-                <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" />
-                </picture>
-                </a>
-                  <a href="https://www.x.com/arnaud_hirw" target="_blank" rel="noreferrer">
-                <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" />
-                </picture>
-                </a>
-                  <a href="https://www.twitch.tv/trevorarnaud" target="_blank" rel="noreferrer">
-                <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" />
-                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
-                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch" />
-                </picture>
-                </a></p>### Badges<b>My GitHub Stats</b><a
-                  href="http://www.github.com/hirwa-arnaud"><img src="https://github-readme-stats.vercel.app/api?username=hirwa-arnaud&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hirwa-arnaud's GitHub stats" /></a><a
-                  href="http://www.github.com/hirwa-arnaud"><img
-              src="https://github-readme-streak-stats.herokuapp.com/?user=hirwa-arnaud&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/hirwa-arnaud" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirwa-arnaud&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/hirwa-arnaud/CINEHUB" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hirwa-arnaud&repo=CINEHUB&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+# 👋 Hey there, I'm Hirwa Arnaud!
+
+I'm a passionate web developer who loves turning ideas into reality with code.  
+I enjoy building sleek websites, learning new frameworks, and sharing my projects with the world.
+
+---
+
+## 🚀 Skills
+![Skills](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Skills](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Skills](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Skills](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Skills](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hirwaarnaud&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirwaarnaud&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirwaarnaud&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hirwaarnaud&theme=radical&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+---
+
+## 🌐 Connect with me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4E9A06?style=for-the-badge&logo=netlify&logoColor=white)](https://arnaudportifolio.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnaudhirwa1@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arnaud11h)
+
+---
+
+## ⚡ Fun Fact
+I can code for hours if the vibe is right — especially with good music! 🎧✨
+
