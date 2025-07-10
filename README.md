@@ -1,27 +1,127 @@
-# 💫 About Me:
-👋 Hi there! I’m Hirwa Arnaud<br>I’m a Full Stack Developer and a student who loves building things for the web.<br>I have experience with HTML, CSS, JavaScript, PHP, WordPress, and Vue.js.<br>I enjoy learning new technologies, creating beautiful user interfaces, and solving real-world problems with code.<br><br>🎓 Currently studying to grow my skills and build my career in tech.<br><br>🛠️ Skills: HTML, CSS, JavaScript, PHP, WordPress, Vue.js<br><br>✨ Interests: Web Development, UI/UX Design, Open Source, and Tech Communities.<br><br>📫 Contact me: arnaudhirwa1@gmail.com
+<div align="center">
 
+# 🌟 Welcome to HIRW ARNAUD's Profile 🌟
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hirwa._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hirwa-arnaud) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnaudhirwa1@gmail.com) 
+<p><em>💫 About Me:
+👋 Hi there! I’m Hirwa Arnaud
+I’m a Full Stack Developer and a student who loves building things for the web.
+I have experience with HTML, CSS, JavaScript, PHP, WordPress, and Vue.js.
+I enjoy learning new technologies, creating beautiful user interfaces, and solving real-world problems with code.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hirwa-arnaud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hirwa-arnaud&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwa-arnaud&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 Currently studying to grow my skills and build my career in tech.
+
+🛠️ Skills: HTML, CSS, JavaScript, PHP, WordPress, Vue.js
+
+✨ Interests: Web Development, UI/UX Design, Open Source, and Tech Communities.</em></p>
+
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+
+</div>
+
+<hr>
+
+## 🔭 I'm currently working on
+
+<div align="center"><p>CINEMA TO SHOW PEOPLE MOVIES FOR FREE</p></div>
+
+## 🌱 I'm currently learning
+
+<div align="center"><p>Learning BACKEND languages</p></div>
+
+## 👀 I'm interested in
+
+<div align="center"><p>Designer and Developer</p></div>
+
+## 👀 Visitor Count
+
+<!-- ⚠️ Important: Replace 'hirwa-arnaud' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/hirwa-arnaud/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hirwa-arnaud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ⚠️ Important: Replace 'hirwa-arnaud' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hirwa-arnaud&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hirwa-arnaud&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=hirwa-arnaud&icon=0&color=1)](https://visitcount.itsvg.in)
+<!-- ⚠️ Important: Replace 'hirwa-arnaud' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hirwa-arnaud&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔝 Most Used Languages
+
+<!-- ⚠️ Important: Replace 'hirwa-arnaud' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirwa-arnaud&layout=compact&langs_count=10&theme=radical"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'hirwa-arnaud' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirwa-arnaud&theme=radical&hide_border=false" />
+</div>
+
+## 🐦 Latest Tweet
+
+<!-- ⚠️ Important: Replace 'arnaud_hirw' with your actual Twitter username in the URL below -->
+<div align="center">
+  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=arnaud_hirw" /></a>
+</div>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Vue.js-05122A?style=for-the-badge&color=ff69b4">
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1">
+
+### 🚀 DevOps
+
+<img src="https://img.shields.io/badge/-GitHub Actions-05122A?style=for-the-badge&color=9370db">
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&color=FFA500">
+
+</div>
+
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/hirwa-arnaud"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/hirwa-arnaud-676301367/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> <a href="https://x.com/arnaud_hirw"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=6bdfcf"></a> 
+
+</div>
+
+## 📫 How to reach me
+
+<div align="center">
+
+**Email:** arnaudhirwa1@gmail.com
+**Phone:** 7342 272 173
+
+</div>
+
+<div align="center">
+
+<!-- ⚠️ Important: Replace 'hirwa-arnaud' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=hirwa-arnaud&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/hirwa-arnaud?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
+</div>
