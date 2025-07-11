@@ -10,11 +10,17 @@
   <a href="https://github.com/hirwa-arnaud">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/@HIRWAARNAUD">
+  <a href="https://x.com/arnaud_hirw">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:arnaudhirwa1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hirwa-arnaud-676301367/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/arnaud11h">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=hirwa-arnaud&label=Profile+Views&color=2EC4B6&style=for-the-badge" alt="profile views" />
 </div>
@@ -104,11 +110,8 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Currently Working On
 
 <div align="center">
-  <a href="https://github.com/hirwa-arnaud/ai_mock_interviews.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hirwa-arnaud&repo=ai_mock_interviews&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EC4B6&icon_color=2EC4B6&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/hirwa-arnaud/chat-app-php-and-mysql">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hirwa-arnaud&repo=chat-app-php-and-mysql&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EC4B6&icon_color=2EC4B6&text_color=FFFFFF" />
+  <a href="https://github.com/hirwa-arnaud/CINEHUB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hirwa-arnaud&repo=CINEHUB&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EC4B6&icon_color=2EC4B6&text_color=FFFFFF" />
   </a>
 </div>
 
@@ -117,11 +120,14 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"> Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-link/">
+  <a href="https://www.linkedin.com/in/hirwa-arnaud-676301367/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/@HIRWAARNAUD">
+  <a href="https://x.com/arnaud_hirw">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/arnaud11h">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
   <a href="mailto:arnaudhirwa1@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
