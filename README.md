@@ -98,6 +98,10 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirwa-arnaud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EC4B6&text_color=FFFFFF" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirwa-arnaud&bg_color=0D1117&color=2EC4B6&line=2EC4B6&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
